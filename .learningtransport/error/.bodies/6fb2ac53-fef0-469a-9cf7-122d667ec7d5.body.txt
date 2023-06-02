@@ -1,0 +1,1 @@
+<?xml version="1.0"?><UserCreated xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/UserStorage.Integration.Messages.Events"><UId>00000000-0000-0000-0000-000000000000</UId><Email>snoopdogg@test.com</Email></UserCreated>

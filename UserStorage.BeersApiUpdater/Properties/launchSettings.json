@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UserStorage.BeersApiUpdater": {
+      "commandName": "Project",
+      "commandLineArgs": "--run-as-console"
+    }
+  }
+}

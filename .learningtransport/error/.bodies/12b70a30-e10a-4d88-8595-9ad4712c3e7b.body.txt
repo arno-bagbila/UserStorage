@@ -1,0 +1,1 @@
+<?xml version="1.0"?><UserCreated xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/UserStorage.Integration.Messages.Events"><UId>518505cd-0b81-4f76-8b9a-0f05c6c9d87e</UId><Email>tiwootestsssss@beer.com</Email><RoleName>BeersApiReadOnly</RoleName></UserCreated>
